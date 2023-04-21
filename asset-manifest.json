@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/profile-page/static/css/main.6b4ee44c.css",
-    "main.js": "/profile-page/static/js/main.33958ce4.js",
-    "index.html": "/profile-page/index.html",
-    "main.6b4ee44c.css.map": "/profile-page/static/css/main.6b4ee44c.css.map",
-    "main.33958ce4.js.map": "/profile-page/static/js/main.33958ce4.js.map"
+    "main.css": "/valeo/static/css/main.6b4ee44c.css",
+    "main.js": "/valeo/static/js/main.3268b89e.js",
+    "index.html": "/valeo/index.html",
+    "main.6b4ee44c.css.map": "/valeo/static/css/main.6b4ee44c.css.map",
+    "main.3268b89e.js.map": "/valeo/static/js/main.3268b89e.js.map"
   },
   "entrypoints": [
     "static/css/main.6b4ee44c.css",
-    "static/js/main.33958ce4.js"
+    "static/js/main.3268b89e.js"
   ]
 }
