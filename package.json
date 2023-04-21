@@ -2,7 +2,7 @@
   "name": "valeo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://omarfarids.github.io/profile-page",
+  "homepage": "https://omarfarids.github.io/valeo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
